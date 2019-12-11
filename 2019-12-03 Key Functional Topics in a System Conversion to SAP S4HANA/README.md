@@ -16,3 +16,14 @@ Week 2: Conversion to SAP S/4HANA Finance
 Week 3: Business Partner  
 Week 4: Conversion to SAP S/4HANA for Logistics Areas  
 Week 5: Final Exam  
+
+### Slides  
+https://s3.xopic.de/opensap-public/courses/6TQBud3sMchtaRLGDQDkwo/rtfiles/39GCsY0y5IFQLqeLyobFSR/openSAP_s4h15_Week_1_All_Slides.pdf   https://s3.xopic.de/opensap-public/courses/6TQBud3sMchtaRLGDQDkwo/rtfiles/6KSOpWw6ZF9MPYns8q7Xgo/openSAP_s4h15_Week_2_All_Slides.pdf   
+https://s3.xopic.de/opensap-public/courses/6TQBud3sMchtaRLGDQDkwo/rtfiles/74eOiw7CJttFCDDMNvli5G/openSAP_s4h15_Week_3_All_Slides.pdf   
+https://s3.xopic.de/opensap-public/courses/6TQBud3sMchtaRLGDQDkwo/rtfiles/Fy2WxFxmdlWc9Gytymyvg/openSAP_s4h15_Week_4_All_Slides.pdf   
+
+### Coding Examples
+openSAP Key Functional Topics in a System   
+Conversion to SAP S/4HANA   
+Coding PAI and PBO Function Modules   
+https://s3.xopic.de/opensap-public/courses/6TQBud3sMchtaRLGDQDkwo/rtfiles/3oZQ63wyO13PuaJkgsKY7H/openSAP_s4h15_Week_3_Unit_4_BDT_Framework_Coding_Additional_Download.pdf     
