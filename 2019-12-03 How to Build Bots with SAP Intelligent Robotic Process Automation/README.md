@@ -27,5 +27,10 @@ Partners
 [Week 3: Development Phase II](https://s3.xopic.de/opensap-public/courses/6ZYNw1Hct9ecKa9TUyKDCo/rtfiles/15r0ZoZ9lsKqa0NHcw9UK8/openSAP_rpa2_Week_03_All_Slides.pdf)   
 [Week 4: Further Topics](https://s3.xopic.de/opensap-public/courses/6ZYNw1Hct9ecKa9TUyKDCo/rtfiles/1NI6D1QGsQnRfVve2ft6BY/openSAP_rpa2_Week_4_All_Slides.pdf)
 
+### Further Documentation
+[API trigger](https://help.sap.com/viewer/c836fab4182e45548b6c6c6d0d0a9146/Cloud/en-US/f2e3d2d3e84d42eabe14913f7ee9269c.html)   
+[API notifier](https://help.sap.com/viewer/c836fab4182e45548b6c6c6d0d0a9146/Cloud/en-US/d1d05c3d98fc49c0a657590097acd10e.html)   
+[CAI notifier](https://help.sap.com/viewer/c836fab4182e45548b6c6c6d0d0a9146/Cloud/en-US/687a77a4d8f34d278af287be95ebe304.html)   
+
 
 
