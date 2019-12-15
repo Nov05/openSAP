@@ -20,3 +20,12 @@ Week 4: Further Topics
 Bot developers  
 Consultants  
 Partners   
+
+### Slides
+[Week 1 Introduction](https://s3.xopic.de/opensap-public/courses/6ZYNw1Hct9ecKa9TUyKDCo/rtfiles/31FCWg2L9h6JWjECwgrFXb/openSAP_rpa2_Week_01_All_Slides.pdf)   
+[Week 2: Development Phase I](https://s3.xopic.de/opensap-public/courses/6ZYNw1Hct9ecKa9TUyKDCo/rtfiles/7DdZWjWNo2RPwVSTnxx2aj/openSAP_rpa2_Week_02_All_Slides.pdf)   
+[Week 3: Development Phase II](https://s3.xopic.de/opensap-public/courses/6ZYNw1Hct9ecKa9TUyKDCo/rtfiles/15r0ZoZ9lsKqa0NHcw9UK8/openSAP_rpa2_Week_03_All_Slides.pdf)   
+[Week 4: Further Topics](https://s3.xopic.de/opensap-public/courses/6ZYNw1Hct9ecKa9TUyKDCo/rtfiles/1NI6D1QGsQnRfVve2ft6BY/openSAP_rpa2_Week_4_All_Slides.pdf)
+
+
+
